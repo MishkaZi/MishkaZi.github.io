@@ -66,3 +66,15 @@
     background-image: url('../../MishkaZi.github.io/assets/img/portfolio/react-vacations.PNG');
     background-size: cover;
 }
+
+#cryptonite-jquery{
+  background-image: url('../../MishkaZi.github.io/assets/img/portfolio/cryptonite.PNG');
+  background-size: cover;
+}
+
+#todo-js{
+  background-image: url('../../MishkaZi.github.io/assets/img/portfolio/todo.PNG');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
