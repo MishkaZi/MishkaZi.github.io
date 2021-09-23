@@ -48,6 +48,21 @@
 }
 
 .portfolio-item {
-  width: 25rem;
-  height: 15rem;
+  width: 20rem;
+  min-height: 15rem;
+  /* object-fit:cover; */
+}
+
+.portfolio-item > img {
+  object-fit: contain;
+}
+
+#eshop-angular {
+  background-image: url('../../MishkaZi.github.io/assets/img/portfolio/eshop-angular.PNG');
+  background-size: cover;
+}
+
+#vacations-react{
+    background-image: url('../../MishkaZi.github.io/assets/img/portfolio/react-vacations.PNG');
+    background-size: cover;
 }
