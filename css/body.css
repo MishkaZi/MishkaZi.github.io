@@ -49,8 +49,7 @@
 
 .portfolio-item {
   width: 20rem;
-  min-height: 15rem;
-  /* object-fit:cover; */
+  min-height: 14rem;
 }
 
 .portfolio-item > img {
