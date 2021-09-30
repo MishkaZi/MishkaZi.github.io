@@ -78,3 +78,17 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+
+#servers-react{
+  background-image: url('../../MishkaZi.github.io/assets/img/portfolio/servers.PNG');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#family-tasks-angular{
+  background-image: url('../../MishkaZi.github.io/assets/img/portfolio/family-tasks.PNG');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
