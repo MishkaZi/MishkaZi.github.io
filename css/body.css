@@ -67,13 +67,13 @@
 }
 
 #weather-app-react {
-  background-image: url('../assets/img/portfolio/weatherapp-react.PNG');
+  background-image: url('./assets/img/portfolio/weatherapp-react.PNG');
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #twitter-bot-nodejs {
-  background-image: url('../assets/img/portfolio/twitter-bot-nodejs.PNG');
+  background-image: url('./assets/img/portfolio/twitter-bot-nodejs.PNG');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
