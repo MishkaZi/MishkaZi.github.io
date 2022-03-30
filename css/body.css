@@ -57,35 +57,35 @@
 }
 
 #eshop-angular {
-  background-image: url('../assets/img/portfolio/eshop-angular.PNG');
+  background-image: url('https://MishkaZi.github.io/assets/img/portfolio/eshop-angular.PNG');
   background-size: cover;
 }
 
 #vacations-react {
-  background-image: url('../assets/img/portfolio/react-vacations.PNG');
+  background-image: url('https://MishkaZi.github.io/assets/img/portfolio/react-vacations.PNG');
   background-size: cover;
 }
 
 #weather-app-react {
-  background-image: url('../assets/img/portfolio/weatherapp-react.PNG');
+  background-image: url('https://MishkaZi.github.io/assets/img/portfolio/weatherapp-react.PNG');
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #twitter-bot-nodejs {
-  background-image: url('../assets/img/portfolio/twitter-bot-nodejs.PNG');
+  background-image: url('https://MishkaZi.github.io/assets/img/portfolio/twitter-bot-nodejs.PNG');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 #cryptonite-jquery {
-  background-image: url('../assets/img/portfolio/cryptonite.PNG');
+  background-image: url('https://MishkaZi.github.io/assets/img/portfolio/cryptonite.PNG');
   background-size: cover;
 }
 
 #todo-js {
-  background-image: url('../assets/img/portfolio/todo.PNG');
+  background-image: url('https://MishkaZi.github.io/assets/img/portfolio/todo.PNG');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
